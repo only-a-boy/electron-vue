@@ -1,0 +1,39 @@
+{
+  "dataBindings": [
+    {
+      "attr": "rectBg",
+      "valueType": "Color"
+    }
+  ],
+  "width": 80,
+  "height": 20,
+  "comps": [
+    {
+      "type": "rect",
+      "background": {
+        "func": "attr@rectBg",
+        "value": "rgb(255,0,0)"
+      },
+      "borderColor": "#979797",
+      "rect": [
+        0,
+        0,
+        30,
+        20
+      ]
+    },
+    {
+      "type": "text",
+      "text": "端口1",
+      "align": "left",
+      "color": "rgb(0,0,0)",
+      "font": "12px arial, sans-serif",
+      "rect": [
+        30,
+        0,
+        80,
+        20
+      ]
+    }
+  ]
+}

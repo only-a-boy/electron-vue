@@ -1,0 +1,318 @@
+{
+  "v": "6.2.1",
+  "p": {
+    "autoAdjustIndex": true,
+    "hierarchicalRendering": true
+  },
+  "d": [
+    {
+      "c": "ht.Node",
+      "i": 1277,
+      "p": {
+        "tag": "service",
+        "image": "机柜.json",
+        "rotationX": 1.5708,
+        "position": {
+          "x": 0,
+          "y": 225
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.54
+        },
+        "anchorElevation": 1,
+        "width": 507,
+        "height": 980,
+        "tall": 450,
+        "elevation": 451
+      },
+      "s": {
+        "all.color": "#DDDDDD",
+        "top.image": "机柜.json",
+        "front.visible": true,
+        "back.visible": true,
+        "left.visible": true,
+        "right.visible": true,
+        "bottom.visible": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 1340,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": -127.02344,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2294,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": -101.44534,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2295,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": -75.86724,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2296,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": -50.28914,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2297,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": -24.71104,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2298,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": 0.86706,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2299,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": 26.44516,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 2300,
+      "p": {
+        "displayName": "device",
+        "parent": {
+          "__i": 1277
+        },
+        "image": "内部设备2.json",
+        "host": {
+          "__i": 1277
+        },
+        "rotationX": 1.5708,
+        "rotationZ": 0,
+        "position": {
+          "x": 52.02326,
+          "y": 225
+        },
+        "anchorElevation": 0,
+        "width": 27.11137,
+        "height": 147.98291,
+        "tall": 2,
+        "elevation": 450.99682
+      },
+      "s": {
+        "shape3d": "plane",
+        "shape3d.image": "内部设备2.json",
+        "shape3d.fixSizeOnScreen": false,
+        "shape3d.vector.dynamic": true,
+        "shape3d.transparent": true
+      }
+    }
+  ],
+  "scene": {
+    "eye": [
+      583.09795,
+      1047.34172,
+      1541.14322
+    ],
+    "center": [
+      0,
+      500,
+      0
+    ],
+    "near": 10,
+    "far": 10000,
+    "gridSize": 50,
+    "gridGap": 50,
+    "gridColor": [
+      0.4,
+      0.75,
+      0.85,
+      1
+    ]
+  }
+}

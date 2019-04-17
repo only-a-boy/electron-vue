@@ -1,0 +1,960 @@
+{
+  "v": "6.3.0",
+  "p": {
+    "autoAdjustIndex": true,
+    "hierarchicalRendering": false
+  },
+  "d": [
+    {
+      "c": "ht.Node",
+      "i": 19,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/railFrame.json",
+        "position": {
+          "x": 147.75,
+          "y": 210.75
+        },
+        "width": 250,
+        "height": 268.99999
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 20,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "y": 225,
+          "x": 174.34143
+        },
+        "anchor": {
+          "x": 0.52222,
+          "y": 0.5
+        },
+        "width": 45,
+        "height": 45
+      },
+      "s": {
+        "body.color": "",
+        "border.color": "",
+        "label.color": ""
+      },
+      "a": {
+        "id": "2",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 21,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "y": 225,
+          "x": 221.36125
+        },
+        "width": 45,
+        "height": 45
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "id": "3",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 22,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 183.75,
+          "y": 121.00855
+        },
+        "width": 50,
+        "height": 50
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": "",
+        "id": "1"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 23,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 82.5,
+          "y": 380.00426
+        },
+        "width": 45,
+        "height": 45
+      },
+      "a": {
+        "id": "5"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 24,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 167,
+          "y": 380.00426
+        },
+        "width": 35,
+        "height": 35
+      },
+      "a": {
+        "id": "6"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 25,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 247.75,
+          "y": 380.00426
+        },
+        "width": 35,
+        "height": 35
+      },
+      "a": {
+        "id": "7"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 26,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 245.25,
+          "y": 307.50426
+        },
+        "width": 30,
+        "height": 40
+      },
+      "a": {
+        "id": "4"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 27,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 322.75,
+          "y": 180.24999
+        },
+        "width": 50,
+        "height": 25
+      },
+      "a": {
+        "id": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 28,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 323.75,
+          "y": 215.74999
+        },
+        "width": 50,
+        "height": 25
+      },
+      "a": {
+        "id": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 29,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/rect.json",
+        "position": {
+          "x": 323.75,
+          "y": 252.74999
+        },
+        "width": 50,
+        "height": 25
+      },
+      "a": {
+        "id": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 30,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/double-arrow.json",
+        "position": {
+          "x": 272.75,
+          "y": 180
+        },
+        "width": 50,
+        "height": 10
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 31,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/double-arrow.json",
+        "position": {
+          "x": 273.75,
+          "y": 215.74999
+        },
+        "width": 50,
+        "height": 10
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 32,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/double-arrow.json",
+        "position": {
+          "x": 273.75,
+          "y": 252.74999
+        },
+        "width": 50,
+        "height": 10
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 33,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/arrow.json",
+        "rotation": 4.71239,
+        "position": {
+          "x": 167.75006,
+          "y": 310.25
+        },
+        "width": 105,
+        "height": 10
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 34,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/arrow.json",
+        "rotation": 4.71239,
+        "position": {
+          "x": 246.74997,
+          "y": 345.50426
+        },
+        "width": 35,
+        "height": 10
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 35,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/arrow.json",
+        "rotation": 4.71239,
+        "position": {
+          "x": 243.74998,
+          "y": 272.75
+        },
+        "width": 30,
+        "height": 10
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 36,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/line.json",
+        "rotation": 4.71239,
+        "position": {
+          "x": 81.49994,
+          "y": 302.50426
+        },
+        "width": 110,
+        "height": 1
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 37,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/arrow.json",
+        "position": {
+          "x": 113.875,
+          "y": 247.24999
+        },
+        "width": 67.75,
+        "height": 10
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 38,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/double-arrow.json",
+        "rotation": 4.71239,
+        "position": {
+          "x": 173.34153,
+          "y": 157.00855
+        },
+        "width": 20,
+        "height": 10
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 39,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/double-arrow.json",
+        "rotation": 1.5708,
+        "position": {
+          "x": 183.75,
+          "y": 71.00853
+        },
+        "width": 50,
+        "height": 10
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 40,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/triangle.json",
+        "position": {
+          "x": 183.25009,
+          "y": 34.76383
+        },
+        "width": 15,
+        "height": 20
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 41,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/arc.json",
+        "rotation": 5.93412,
+        "position": {
+          "x": 173.34153,
+          "y": 27.17239
+        },
+        "width": 12,
+        "height": 12
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 42,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/arc.json",
+        "rotation": 2.0944,
+        "position": {
+          "x": 192.77639,
+          "y": 26.76383
+        },
+        "width": 12,
+        "height": 12
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 43,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 183.75,
+          "y": 121.00855
+        },
+        "width": 30,
+        "height": 30
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "text": "车载AP/LTE",
+        "status": "",
+        "protectLevel": "",
+        "id": "2"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 44,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 191.60729,
+          "y": 154
+        },
+        "anchor": {
+          "x": 0.52143,
+          "y": 0.46
+        },
+        "width": 40,
+        "height": 25
+      },
+      "s": {
+        "border.color": ""
+      },
+      "a": {
+        "text": "以太网",
+        "status": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 45,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 198.54582,
+          "y": 181.49008
+        },
+        "anchor": {
+          "x": 0.5,
+          "y": 0.46189
+        },
+        "width": 40,
+        "height": 28
+      },
+      "s": {
+        "border.color": "",
+        "body.color": ""
+      },
+      "a": {
+        "text": "VOBC(ATP+ATO)",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 46,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 322.75,
+          "y": 180
+        },
+        "width": 40,
+        "height": 25
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "text": "车辆网络",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 47,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 322.75,
+          "y": 215.74999
+        },
+        "width": 40,
+        "height": 25
+      },
+      "a": {
+        "text": "车辆IO"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 48,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 323.75,
+          "y": 252.74999
+        },
+        "width": 40,
+        "height": 25
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "text": "车辆电源",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 49,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 273.75,
+          "y": 172.5
+        },
+        "width": 40,
+        "height": 25
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "text": "CAN",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 50,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 274.75,
+          "y": 208.24999
+        },
+        "width": 40,
+        "height": 25
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "text": "继电器",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 51,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 273.75,
+          "y": 245.24999
+        },
+        "width": 40,
+        "height": 25
+      },
+      "a": {
+        "text": "110V"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 52,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 246.25,
+          "y": 307.50426
+        },
+        "width": 30,
+        "height": 30
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "text": "BTM",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 53,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 117.5,
+          "y": 254.74999
+        },
+        "width": 40,
+        "height": 25
+      },
+      "a": {
+        "text": "RS422/脉冲"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 54,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 81.49994,
+          "y": 380.00426
+        },
+        "width": 25,
+        "height": 25
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "text": "多普勒雷达",
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 55,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 150.5,
+          "y": 310.25
+        },
+        "width": 40,
+        "height": 25
+      },
+      "a": {
+        "text": "脉冲"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 56,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 167,
+          "y": 379.50426
+        },
+        "width": 25,
+        "height": 25
+      },
+      "a": {
+        "text": "测速传感器"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 57,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 264.75,
+          "y": 276.74999
+        },
+        "width": 40,
+        "height": 25
+      },
+      "a": {
+        "text": "RS422"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 58,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "x": 247.75,
+          "y": 380.50426
+        },
+        "width": 25,
+        "height": 25
+      },
+      "a": {
+        "text": "BTM天线",
+        "id": "5"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 59,
+      "p": {
+        "name": "node1",
+        "image": "../../../../static/graphics/json/symbols/device/rectNoBorder.json",
+        "position": {
+          "x": 197.62498,
+          "y": 212
+        },
+        "width": 96.24997,
+        "height": 85.49999
+      },
+      "s": {
+        "label.color": "rgba(0,0,0,0)",
+        "body.color": "",
+        "border.color": "rgb(0,0,0)",
+        "border.width": "1"
+      },
+      "a": {
+        "status": "",
+        "protectLevel": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 60,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "y": 225,
+          "x": 173.34153
+        },
+        "width": 35,
+        "height": 35
+      },
+      "a": {
+        "text": "A系"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 61,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "y": 225,
+          "x": 221.95722
+        },
+        "anchor": {
+          "x": 0.53018,
+          "y": 0.52646
+        },
+        "width": 35,
+        "height": 35
+      },
+      "s": {
+        "border.width": "1"
+      },
+      "a": {
+        "text": "B系"
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 62,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "y": 212,
+          "x": 173.75011
+        },
+        "width": 30,
+        "height": 30
+      },
+      "s": {
+        "body.color": "",
+        "border.color": "",
+        "border.width": "0"
+      },
+      "a": {
+        "status": "",
+        "protectLevel": "",
+        "id": "101",
+        "text": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 63,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "y": 238,
+          "x": 173.84153
+        },
+        "width": 30,
+        "height": 30
+      },
+      "s": {
+        "body.color": "",
+        "border.color": ""
+      },
+      "a": {
+        "id": "102",
+        "status": "",
+        "protectLevel": "",
+        "text": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 64,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "y": 212,
+          "x": 221.36125
+        },
+        "width": 30,
+        "height": 30
+      },
+      "s": {
+        "border.width": 0
+      },
+      "a": {
+        "id": "201",
+        "text": ""
+      }
+    },
+    {
+      "c": "ht.Node",
+      "i": 65,
+      "p": {
+        "name": "",
+        "image": "../../../../static/graphics/json/symbols/device/text.json",
+        "position": {
+          "y": 238,
+          "x": 221.36125
+        },
+        "width": 30,
+        "height": 30
+      },
+      "s": {
+        "border.width": 0
+      },
+      "a": {
+        "id": "202",
+        "text": ""
+      }
+    }
+  ]
+}

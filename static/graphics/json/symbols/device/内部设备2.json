@@ -1,0 +1,318 @@
+{
+  "dataBindings": [
+    {
+      "attr": "rectBg1",
+      "valueType": "Color"
+    },
+    {
+      "attr": "shadowColor1",
+      "valueType": "Color"
+    },
+    {
+      "attr": "rectBg2",
+      "valueType": "Color"
+    },
+    {
+      "attr": "shadowColor2",
+      "valueType": "Color"
+    },
+    {
+      "attr": "rectBg3",
+      "valueType": "Color"
+    },
+    {
+      "attr": "shadowColor3",
+      "valueType": "Color"
+    },
+    {
+      "attr": "rectBg4",
+      "valueType": "Color"
+    },
+    {
+      "attr": "shadowColor4",
+      "valueType": "Color"
+    },
+    {
+      "attr": "rectBg5",
+      "valueType": "Color"
+    },
+    {
+      "attr": "shadowColor5",
+      "valueType": "Color"
+    }
+  ],
+  "width": 48,
+  "height": 262,
+  "comps": [
+    {
+      "type": "rect",
+      "background": "rgb(61,59,59)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        1.20697,
+        1.07397,
+        45.04155,
+        259.68582
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(8,0,0)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        2.18331,
+        230.74601,
+        34.0843,
+        30.01377
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(61,59,59)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        6.39238,
+        245.7529,
+        25.66616,
+        15.00689
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(255,255,255)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "square",
+      "rect": [
+        3.82173,
+        203.189,
+        39.71682,
+        19.21775
+      ]
+    },
+    {
+      "type": "text",
+      "text": "大发发达",
+      "align": "center",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        1.06763,
+        205.189,
+        45.04156,
+        16.9888
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(255,255,255)",
+      "borderWidth": 1,
+      "borderColor": "rgb(255,255,255)",
+      "borderCap": "square",
+      "rect": [
+        6.39238,
+        103.11192,
+        35.1771,
+        4.352
+      ]
+    },
+    {
+      "type": "rect",
+      "background": {
+        "func": "attr@rectBg1",
+        "value": "rgb(255,0,0)"
+      },
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": {
+        "func": "attr@shadowColor1",
+        "value": "rgba(255,0,0,0.35)"
+      },
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rect": [
+        4.38544,
+        23.52679,
+        14.46481,
+        6.1554
+      ]
+    },
+    {
+      "type": "text",
+      "text": "端口1",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        18.28654,
+        21.30832,
+        27.82265,
+        11.5434
+      ]
+    },
+    {
+      "type": "text",
+      "text": "端口2",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        18.28654,
+        30.55756,
+        27.82265,
+        11.5434
+      ]
+    },
+    {
+      "type": "text",
+      "text": "端口3",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        18.28654,
+        39.80679,
+        27.82265,
+        11.5434
+      ]
+    },
+    {
+      "type": "text",
+      "text": "端口4",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        18.28654,
+        49.05603,
+        27.82265,
+        11.5434
+      ]
+    },
+    {
+      "type": "text",
+      "text": "端口5",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "8px arial, sans-serif",
+      "rect": [
+        18.28654,
+        58.30527,
+        27.82265,
+        11.5434
+      ]
+    },
+    {
+      "type": "text",
+      "text": "设备由XXXX制造",
+      "align": "center",
+      "color": "rgb(0,0,0)",
+      "font": "4px arial, sans-serif",
+      "rect": [
+        19.28654,
+        102.56512,
+        10.01457,
+        5.44561
+      ]
+    },
+    {
+      "type": "rect",
+      "background": {
+        "func": "attr@rectBg2",
+        "value": "rgb(255,0,0)"
+      },
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": {
+        "func": "attr@shadowColor2",
+        "value": "rgba(255,0,0,0.35)"
+      },
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rect": [
+        4.38544,
+        32.55505,
+        14.46481,
+        6.1554
+      ]
+    },
+    {
+      "type": "rect",
+      "background": {
+        "func": "attr@rectBg3",
+        "value": "rgb(255,0,0)"
+      },
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": {
+        "func": "attr@shadowColor3",
+        "value": "rgba(255,0,0,0.35)"
+      },
+      "shadowBlur": 12,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rect": [
+        4.38544,
+        41.4221,
+        14.46481,
+        6.1554
+      ]
+    },
+    {
+      "type": "rect",
+      "background": {
+        "func": "attr@rectBg4",
+        "value": "rgb(255,0,0)"
+      },
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": {
+        "func": "attr@shadowColor4",
+        "value": "rgba(255,0,0,0.35)"
+      },
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rect": [
+        4.38544,
+        51.09524,
+        14.46481,
+        6.1554
+      ]
+    },
+    {
+      "type": "rect",
+      "background": {
+        "func": "attr@rectBg5",
+        "value": "rgb(255,0,0)"
+      },
+      "borderColor": "#979797",
+      "shadow": true,
+      "shadowColor": {
+        "func": "attr@shadowColor5",
+        "value": "rgba(255,0,0,0.35)"
+      },
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 0,
+      "rect": [
+        4.38544,
+        60.60716,
+        14.46481,
+        6.1554
+      ]
+    },
+    {
+      "type": "oval",
+      "background": "#D8D8D8",
+      "borderWidth": 1,
+      "borderColor": "#979797",
+      "rect": [
+        18.79929,
+        125.79929,
+        10.40143,
+        10.40143
+      ]
+    }
+  ]
+}

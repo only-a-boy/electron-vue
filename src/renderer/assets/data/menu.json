@@ -1,0 +1,30 @@
+[
+  {
+    "id": 4,
+    "parent_id": 2,
+    "path": "/list",
+    "name": "示例列表",
+    "icon": "el-icon-date",
+    "islink": 1,
+    "component": "Common.List",
+    "level": 2
+  },
+  {
+    "id": 3,
+    "parent_id": 2,
+    "path": "/form",
+    "name": "示例表单",
+    "icon": "el-icon-date",
+    "islink": 1,
+    "component": "Common.Form",
+    "level": 2
+  },
+  {
+    "id": 1,
+    "name": "首页面板",
+    "path": "/main",
+    "icon": "el-icon-date",
+    "parent_id": 0,
+    "level": 1
+  }
+]

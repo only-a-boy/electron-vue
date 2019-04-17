@@ -1,0 +1,39 @@
+{
+  "width": 50,
+  "height": 80,
+  "comps": [
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(0,0,0)",
+      "points": [
+        25,
+        0,
+        0,
+        80
+      ]
+    },
+	{
+		"type": "shape",
+		"borderWidth": 2,
+		"borderColor": "rgb(0,0,0)",
+		"points": [
+			25,
+			0,
+			50,
+			80
+		]
+	},
+	{
+		"type": "shape",
+		"borderWidth": 2,
+		"borderColor": "rgb(0,0,0)",
+		"points": [
+			0,
+			80,
+			50,
+			80
+		]
+	}
+  ]
+}

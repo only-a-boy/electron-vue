@@ -1,0 +1,156 @@
+{
+  "dataBindings": [],
+  "width": 40,
+  "height": 131,
+  "comps": [
+    {
+      "type": "rect",
+      "background": "rgb(61,59,59)",
+      "borderWidth": 1,
+      "borderColor": "rgb(10,0,0)",
+      "rect": [
+        0.95839,
+        1,
+        37.94911,
+        129.02698
+      ]
+    },
+    {
+      "type": "oval",
+      "background": "rgb(61,59,59)",
+      "borderWidth": 4,
+      "borderColor": "#979797",
+      "rect": [
+        6.01276,
+        21.86962,
+        14.11128,
+        13.70156
+      ]
+    },
+    {
+      "type": "oval",
+      "background": "rgb(61,59,59)",
+      "borderWidth": 4,
+      "borderColor": "#979797",
+      "rect": [
+        6.01276,
+        47.20927,
+        11.56788,
+        11.75383
+      ]
+    },
+    {
+      "type": "oval",
+      "background": "rgb(61,59,59)",
+      "borderWidth": 4,
+      "borderColor": "#979797",
+      "rect": [
+        5.57315,
+        67.74061,
+        12.00748,
+        11.78722
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(8,0,0)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        0.95839,
+        104.44681,
+        29.0494,
+        25.58017
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(61,59,59)",
+      "borderWidth": 1,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+        4.5457,
+        117.23689,
+        21.87478,
+        12.79008
+      ]
+    },
+    {
+      "type": "text",
+      "text": "插口1",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "4px arial, sans-serif",
+      "rect": [
+        25.15081,
+        31.40255,
+        10.01457,
+        5.44561
+      ]
+    },
+    {
+      "type": "text",
+      "text": "插口1",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "4px arial, sans-serif",
+      "rect": [
+        25.15081,
+        53.6361,
+        10.01457,
+        5.44561
+      ]
+    },
+    {
+      "type": "text",
+      "text": "插口1",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "4px arial, sans-serif",
+      "rect": [
+        25.15081,
+        75.86965,
+        10.01457,
+        5.44561
+      ]
+    },
+    {
+      "type": "text",
+      "text": "设备由XXXX制造",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "4px arial, sans-serif",
+      "rect": [
+        15.0684,
+        5.29924,
+        10.01457,
+        5.44561
+      ]
+    },
+    {
+      "type": "text",
+      "text": "设备由XXXX制造",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "font": "4px arial, sans-serif",
+      "rect": [
+        14.92566,
+        91.95636,
+        10.01457,
+        5.44561
+      ]
+    },
+    {
+      "type": "oval",
+      "background": "rgb(184,184,184)",
+      "borderWidth": 1,
+      "borderColor": "rgb(212,212,212)",
+      "rect": [
+        18.22466,
+        1.97047,
+        3.55069,
+        3.32877
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+	"width": 200,
+	"height": 60,
+	"comps": [
+		{
+		  "type": "shape",
+		  "borderWidth": 2,
+		  "borderColor": "rgb(0,0,0)",
+		  "points": [
+			0,
+			30,
+			200,
+			30
+		  ]
+		},
+		{
+			"type": "shape",
+			"borderWidth": 2,
+			"borderColor": "rgb(0,0,0)",
+			"points": [
+				0,
+				30,
+				30,
+				0
+			]
+		},
+		{
+			"type": "shape",
+			"borderWidth": 2,
+			"borderColor": "rgb(0,0,0)",
+			"points": [
+				0,
+				30,
+				30,
+				60
+			]
+		},
+		{
+			"type": "shape",
+			"borderWidth": 2,
+			"borderColor": "rgb(0,0,0)",
+			"points": [
+				200,
+				30,
+				170,
+				0
+			]
+		},
+		{
+			"type": "shape",
+			"borderWidth": 2,
+			"borderColor": "rgb(0,0,0)",
+			"points": [
+				200,
+				30,
+				170,
+				60
+			]
+		}
+	]
+}

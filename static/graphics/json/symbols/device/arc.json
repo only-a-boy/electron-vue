@@ -1,0 +1,29 @@
+{
+  "width": 30,
+  "height": 30,
+  "comps": [
+    {
+      "type": "oval",
+      "borderWidth": 2,
+      "borderColor": "rgb(0,0,0)",
+      "rect": [
+      	0,
+      	0,
+      	30,
+      	30
+      ]
+    },
+	{
+	"type": "oval",
+	"borderWidth": 2,
+	"background": "rgb(255,255,255)",
+	"borderColor": "rgb(255,255,255)",
+	"rect": [
+		2,
+		2,
+		30,
+		30
+	]
+	}
+  ]
+}

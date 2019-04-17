@@ -1,0 +1,28 @@
+{
+	"dataBindings": [
+		{
+			"attr": "text",
+			"valueType": "String"
+		}
+	],
+  "width": 200,
+  "height": 140,
+  "comps": [
+    {
+      "type": "text",
+      "text": {
+		  "func": "attr@text",
+		  "value": "文本"
+	  },
+      "align": "center",
+      "scaleX": 4,
+      "scaleY": 4,
+      "rect": [
+        0,
+        0,
+        200,
+        140
+      ]
+    }
+  ]
+}
